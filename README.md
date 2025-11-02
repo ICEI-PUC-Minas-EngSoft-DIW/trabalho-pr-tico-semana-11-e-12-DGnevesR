@@ -6,9 +6,9 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Davi Gamarano Neves Rocha
+- Matricula: 902643
+- Proposta de projeto escolhida: Uma rede social inspirada no Twitter "X".
 - Breve descrição sobre seu projeto:
 
 **Print dos testes da API com Postman ou similar**
